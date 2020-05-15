@@ -1,0 +1,2 @@
+wget --no-check-certificate https://apt.signalsciences.net/gpg.key | apt-key add gpg
+echo "deb https://apt.signalsciences.net/release/ubuntu/ xenial main" | tee /etc/apt/sources.list.d/sigsci-release.list

@@ -1,0 +1,2 @@
+#!/bin/sh
+/sigsci-agent
