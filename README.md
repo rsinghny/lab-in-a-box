@@ -19,7 +19,6 @@ _Working implementations of each module in Docker._
 * python
 * reverse-proxy
 * tomcat
-* dropwizard
 * gunicorn
 * openresty
 * standalone docker agent on alpine
